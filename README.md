@@ -1,2 +1,4 @@
 # 1mc
-Pensamento computacional 1mc
+Estudante do Pensamento computacional 1 ano
+Estamos aprendendo
+coffe shop
